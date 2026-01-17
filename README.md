@@ -18,6 +18,11 @@ This project is designed to be **industry-grade**, deployable on cloud platforms
 
 ---
 
+## 🔗 Live API (Swagger)
+http://3.124.187.33:8080/swagger-ui/index.html
+
+---
+
 ## 🏗️ Architecture (Deep Dive)
 
 ### High-Level Flow
@@ -197,11 +202,10 @@ http://localhost:8080/swagger-ui.html
 
 ---
 
-## ☁️ Deployment (Planned)
+## ☁️ Deployment
 
 * AWS EC2 (Free Tier)
 * PostgreSQL (RDS / EC2)
-* Public Swagger URL
 
 ---
 
@@ -211,6 +215,3 @@ http://localhost:8080/swagger-ui.html
 Backend Developer | Java | Spring Boot | AWS
 
 ---
-
-
-This project reflects **real backend engineering practices** used in production systems.
